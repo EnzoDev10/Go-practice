@@ -11,4 +11,9 @@ func main() {
 
 	fmt.Println("Slices examples:")
 	Slices()
+	fmt.Println()
+
+	fmt.Println("Maps examples:")
+	Maps()
+	fmt.Println()
 }
